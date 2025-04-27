@@ -1,0 +1,14 @@
+{
+  "name": "86150d099304bb30",
+  "main": "86150d099304bb30@553.js",
+  "version": "553.0.0",
+  "homepage": "https://observablehq.com/d/86150d099304bb30",
+  "author": {
+    "name": "Vishal Anton",
+    "url": "https://observablehq.com/@vishal-anton"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
